@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\bin\Debug\netcoreapp3.1\Exercicios2.exe
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\bin\Debug\netcoreapp3.1\Exercicios2.deps.json
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\bin\Debug\netcoreapp3.1\Exercicios2.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\bin\Debug\netcoreapp3.1\Exercicios2.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\bin\Debug\netcoreapp3.1\Exercicios2.dll
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\bin\Debug\netcoreapp3.1\Exercicios2.pdb
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\obj\Debug\netcoreapp3.1\Exercicios2.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\obj\Debug\netcoreapp3.1\Exercicios2.Form1.resources
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\obj\Debug\netcoreapp3.1\Exercicios2.csproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\obj\Debug\netcoreapp3.1\Exercicios2.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\obj\Debug\netcoreapp3.1\Exercicios2.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\obj\Debug\netcoreapp3.1\Exercicios2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\obj\Debug\netcoreapp3.1\Exercicios2.dll
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\obj\Debug\netcoreapp3.1\Exercicios2.pdb
+C:\Users\Gabriel\source\repos\Exercicios2\Exercicios2\obj\Debug\netcoreapp3.1\Exercicios2.genruntimeconfig.cache
